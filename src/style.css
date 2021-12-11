@@ -1,0 +1,14 @@
+body {
+  background-color: wheat;
+}
+h1 {
+  text-align: center;
+  color: goldenrod;
+}
+p {
+  text-align: center;
+  margin-top: 30px;
+}
+img {
+  max-width: 100%;
+}
